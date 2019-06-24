@@ -6,7 +6,7 @@ The goal of the project is to create an image processing algorithm using basic c
 
 
 #### Files in the repository
-* Code for the algorithm is contained in the [IPython notebook](./Finding Lane Lines.ipynb) and [Python file] (./Finding Lane Lines.py) 
+* Code for the algorithm is contained in the [IPython notebook](./finding-lane-lines.ipynb) and [Python file] (./finding-lane-lines.py) 
 
 * A [writeup](./writeup.md) detailing the results of the project and describing the procedure for deriving a single straight line corresponding to a series of line segments found by the Hough transform.
 
